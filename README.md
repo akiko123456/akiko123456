@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+<p align="center">
+  <a href="https://akiko123456.github.io/blog/">
+    <img width="480" src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg">
+  </a>
+</p>
 
 <!--
 **akiko123456/akiko123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
