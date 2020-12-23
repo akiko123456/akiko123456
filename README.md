@@ -1,7 +1,7 @@
 ### Hi 👋
 <p align="center">
   <a href="https://akiko123456.github.io/blog/">
-    <img width="480" src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg">
+    <img width="480" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3658379912,845864056&fm=26&gp=0.jpg">
   </a>
 </p>
 
